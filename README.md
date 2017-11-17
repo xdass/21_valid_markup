@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+[Агенство недвижимости](https://xdass.github.io/)
 
 # Project Goals
 
